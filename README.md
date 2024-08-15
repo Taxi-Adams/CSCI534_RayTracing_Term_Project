@@ -1,5 +1,5 @@
 # CSCI534_RayTracing_Term_Project
-My final project for CSCI 534, Computational Geometry. Implements a simple ray tracer and spline related topics. 
+Finished May 2023. My final project for CSCI 534, Computational Geometry. Implements a simple ray tracer and spline related topics. 
 This is my computational geometry course project. 
 Running the code in an IDE will bring up two windows, one containing a ray-tracer and another containing a canvas to draw and display Bezier Curves. 
 
